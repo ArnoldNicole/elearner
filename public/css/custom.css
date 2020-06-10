@@ -1,0 +1,57 @@
+.img-small{
+	max-width: 300px;
+	max-height:170px;
+}
+.rounded-inputs{
+border: 3px solid #422020;
+border-radius: 50px;
+margin-bottom: 5px;
+margin-top: 5px;
+min-height: 25px;
+align-content: center;
+overflow: hidden;
+overflow-wrap: break-word;
+text-overflow: inherit;
+padding:25px;
+}
+.rounded-inputs i{
+	font-size: 56px;
+	color:#0063ED;
+	font-size: 56px;
+}
+
+.rounded-inputs a{
+	font-size: 25px;
+	color:#F1F10F;
+	alignment-baseline: middle;
+	padding-left: 15px;
+}
+.default a{
+	font-size: initial;
+	color: initial;
+}
+.rounded-inputs-success{
+	border: 3px solid #0FF73D !important;
+}
+.rounded-inputs-danger{
+	border: 3px solid #F81111 !important;
+}
+.rounded-inputs-warning{
+	border: 3px solid #F89D0D !important;
+}
+.rounded-inputs-info{
+	border: 3px solid #11F8F8 !important;
+}
+.rounded-inputs-sm{
+
+}
+.rounded-inputs-sm i{
+	font-size: 56px;
+	color:#0063ED;
+	font-size: 56px;
+}
+.bold{
+	font-weight: lighter;
+	font-family: cambria;
+	text-shadow: red 5px;
+}
